@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Hadi
+## I'm Mat
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning  Node.js
 - ⚡ Fun fact: I'm a Gamer, K-POP
@@ -11,7 +11,6 @@
 
 [<img align="left" alt="Mat | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="Mat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Mat | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/protonmail.svg" />][mail]
 [<img align="left" alt="Mat | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
