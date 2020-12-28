@@ -4,15 +4,15 @@
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning  Node.js
 - ⚡ Fun fact: I'm a Gamer, K-POP
-- 👯 Discord : -its'Hadi.Az'#1405
+- 👯 Discord : '₢ãvalιer Mát#3301
 
 
 ### Contact me:
 
-[<img align="left" alt="hadi | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="hadi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="hadi | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/protonmail.svg" />][mail]
-[<img align="left" alt="hadi | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="Mat | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Mat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Mat | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/protonmail.svg" />][mail]
+[<img align="left" alt="Mat | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
 
@@ -28,21 +28,20 @@
 
 ---
 
-![hadiazt's github stats](https://github-readme-stats.vercel.app/api?username=hadiazt&show_icons=true&theme=radical)
+![hadiazt's github stats](https://github-readme-stats.vercel.app/api?username=matmaz1382&show_icons=true&theme=radical)
 
 ---
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hadiazt&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matmaz1382&layout=compact&theme=radical)
 
 ---
 
-![DM me Discord](https://discord.c99.nl/widget/theme-2/490519932292038659.png)
+![DM me Discord](https://discord.c99.nl/widget/theme-2/451679643595177994.png)
     
-[github]: https://github.com/hadiazt
-[Instagram]: https://www.instagram.com/hadi._.azt/
-[Telegram]: https://t.me/hadiazt
-[Mail]: mailto:azarihadi81@gmail.com
-[discord]: https://discord.bio/p/hadiaz
+[github]: https://github.com/matmaz1382
+[Instagram]: https://www.instagram.com/mat_.xp/
+[Server]: https://discord.gg/cicada
+[discord]: dsc.bio/thexp
 
 ---
 
@@ -50,7 +49,7 @@
 <br>
 <br>
 Visitors<br>
-<img src="https://profile-counter.glitch.me/hadiazt/count.svg" />
+<img src="https://profile-counter.glitch.me/matmaz1382/count.svg" />
 </h3>
 <br>
 <br>  
