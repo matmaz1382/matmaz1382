@@ -39,7 +39,7 @@
 [github]: https://github.com/matmaz1382
 [Instagram]: https://www.instagram.com/mat_.xp/
 [Server]: https://discord.gg/cicada
-[discord]: dsc.bio/thexp
+[discord]: https://dsc.bio/thexp
 
 ---
 
