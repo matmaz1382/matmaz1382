@@ -3,8 +3,8 @@
 ## I'm Mat
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning  Node.js
-- ⚡ Fun fact: I'm a Gamer, K-POP
-- 👯 Discord : '₢ãvalιer Mát#3301
+- 🤽‍♂️ Fun fact:Water polo player
+- 👯 Discord : '₢ãvalιer Mát#0002
 
 
 ### Contact me:
